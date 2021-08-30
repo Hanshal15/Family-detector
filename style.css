@@ -1,0 +1,52 @@
+.heading
+{
+    font-size: 23px;
+    color: lawngreen;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 20px purple;
+}
+
+.heading_div
+{
+    float: none;
+    background: brown;
+    padding: 10px;
+    border-radius: 20px;
+    color: violet;
+    box-shadow: 10px 10px 20px cornflowerblue;
+}
+
+.heading_div2
+{
+    font-size: 18px;
+}
+
+.result_para_tag
+{
+    box-shadow: 10px 10px 20px springgreen;
+    font-size: 20px;
+    background-color: royalblue; 
+    font-size: larger; 
+    color: violet; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: powderblue;
+    bottom: 0px;
+    width: 100%;
+    background: purple;
+    line-height: 2;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px crimson;
+    margin-top: 150px;
+}
